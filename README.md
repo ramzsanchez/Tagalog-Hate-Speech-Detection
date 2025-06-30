@@ -32,6 +32,9 @@ Our ensemble model outperforms individual models in terms of accuracy, precision
 | RoBERTa-TagHS     | 77.65%   | 77.36%    | 74.74% | 76.03%   |
 | XRoBERTa-SLR (Ensemble) | **87.64%** | **87.44%** | **86.35%** | **86.89%** |
 
+[XGBoost-TagHS Model](https://huggingface.co/ramgensanchez/XGBoost-Tagalog-Hate-Speech)
+[RoBERTa-TagHS Model](https://huggingface.co/ramgensanchez/RoBERTa-Tagalog-Hate-Speech)
+[XRoBERTa-SLR (Ensemble) Model](https://huggingface.co/ramgensanchez/XRoBERTa-SLR-Tagalog-Hate-Speech)
 
 ## 🛠️ Technologies Used
 
